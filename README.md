@@ -1,8 +1,8 @@
 # CoX Additions
 
-[![Plugin Installs](https://img.shields.io/endpoint?url=https://i.pluginhub.info/shields/installs/plugin/cox-qol)](https://runelite.net/plugin-hub/TheStonedTurtle) 
+[![Plugin Installs](https://img.shields.io/endpoint?url=https://api.runelite.net/pluginhub/shields/installs/plugin/cox-qol)](https://runelite.net/plugin-hub/TheStonedTurtle) 
 
-[![Plugin Rank](http://img.shields.io/endpoint?url=https://i.pluginhub.info/shields/rank/plugin/cox-qol)](https://runelite.net/plugin-hub)
+[![Plugin Rank](http://img.shields.io/endpoint?url=https://api.runelite.net/pluginhub/shields/rank/plugin/cox-qol)](https://runelite.net/plugin-hub)
 
 Additional QOL features for CoX.
 
